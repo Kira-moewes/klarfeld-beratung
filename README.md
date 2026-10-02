@@ -4,7 +4,7 @@ Entwurf einer animierten Website für eine erfundene Beratung (Digitale Transfor
 
 Alle Namen, Adressen und Kontaktdaten sind fiktiv.
 
-- **Live ansehen:** https://kira-moewes.github.io/portfolio/p/klarfeld/
+- **Live ansehen:** https://kira-moewes.github.io/klarfeld-beratung/
 - **Technik:** eine einzige HTML-Datei (HTML, CSS, JavaScript), ohne Framework und ohne Build-Schritt. Lokal öffnen: `index.html` im Browser.
 
 Portfolio-Projekt von Kira Moewes · https://kira-moewes.github.io/portfolio/
